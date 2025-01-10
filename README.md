@@ -1,4 +1,4 @@
-# Enhanced Contactless Middle Finger Knuckle Recognition using Inverted Residual and Depthwise Convolutional Networks
+# Enhanced Contactless Middle Finger Knuckle Recognition using Inverted Residual and Depthwise Convolutional Networks [![DOI](https://zenodo.org/badge/914919805.svg)](https://doi.org/10.5281/zenodo.14629427)
 
 ## Authors
 - [Noboranjan Dey]()
