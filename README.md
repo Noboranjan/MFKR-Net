@@ -2,8 +2,8 @@
 
 ## Authors
 - [Noboranjan Dey]()
-- [Dr. M Srinivas]
-- [Prof. R.B.V. Subramanyam]
+- [Dr. M Srinivas]()
+- [Prof. R.B.V. Subramanyam]()
 
 # Datasets
 - Dataset is publicly available at https://www4.comp.polyu.edu.hk/~csajaykr/3DKnuckle.htm
