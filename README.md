@@ -14,5 +14,4 @@
 
 ## Citation
 If you use this code in your research, please cite:
-
 @article{MFKR2025, title={Enhanced Contactless Middle Finger Knuckle Recognition using Inverted Residual and Depthwise Convolutional Networks}, author={Noboranjan Dey, Dr. M Srinivas and Prof. R.B.V. Subramanyam}, journal={The Visual Computer (Under Review)}, year={2025}, doi={} }
