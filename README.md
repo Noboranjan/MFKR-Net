@@ -5,6 +5,13 @@
 - [Dr. M Srinivas]()
 - [Prof. R.B.V. Subramanyam]()
 
+## Dependencies
+* Python 3.9
+* TensorFlow
+* keras
+* sklearn
+* NumPy
+  
 # Datasets
 - Dataset is publicly available at https://www4.comp.polyu.edu.hk/~csajaykr/3DKnuckle.htm
 
